@@ -6,9 +6,7 @@ Plant-Disease-Detection is machine learning power website to detect desease of p
 
 1, Select a image   
 2, It check the selected image is wheather it is leaf image or not 
-
 3, Using model it perdict the plant disease 
-
 4, It display the lable for the deasase
 
 **Contributing**
